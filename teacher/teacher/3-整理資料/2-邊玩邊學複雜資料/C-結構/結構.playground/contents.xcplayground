@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='osx' display-mode='rendered' executeOnSourceChanges='true'>
+    <pages>
+        <page name='簡介'/>
+        <page name='自訂類型'/>
+        <page name='結構屬性'/>
+        <page name='資料抽象概念'/>
+        <page name='可變性'/>
+        <page name='運算屬性'/>
+        <page name='函數'/>
+        <page name='實例方法'/>
+        <page name='總結'/>
+        <page name='練習-你自己的結構'/>
+    </pages>
+</playground>

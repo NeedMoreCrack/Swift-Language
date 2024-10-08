@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='osx' display-mode='rendered' executeOnSourceChanges='true'>
+    <pages>
+        <page name='簡介'/>
+        <page name='常數和變數'/>
+        <page name='宣告變數'/>
+        <page name='使用變數'/>
+        <page name='簡便寫法'/>
+        <page name='令人混淆的變更'/>
+        <page name='嘗試變更常數'/>
+        <page name='你的選擇你作主'/>
+        <page name='變化世界中較安全的程式碼'/>
+        <page name='意外世界中較安全的程式碼'/>
+        <page name='總結'/>
+        <page name='練習-購物清單'/>
+        <page name='練習-501'/>
+    </pages>
+</playground>

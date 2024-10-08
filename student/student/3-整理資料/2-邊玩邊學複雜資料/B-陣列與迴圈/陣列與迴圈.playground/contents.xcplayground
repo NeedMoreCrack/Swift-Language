@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='osx' display-mode='rendered' executeOnSourceChanges='true'>
+    <pages>
+        <page name='列表'/>
+        <page name='陣列字面值'/>
+        <page name='索引'/>
+        <page name='計數'/>
+        <page name='類型'/>
+        <page name='處理陣列'/>
+        <page name='迴圈'/>
+        <page name='可變更的陣列'/>
+        <page name='新增項目'/>
+        <page name='移除項目'/>
+        <page name='取代項目'/>
+        <page name='總結'/>
+        <page name='練習-計數'/>
+        <page name='練習-卡拉 OK 主持人'/>
+        <page name='練習-計票'/>
+        <page name='練習-目標'/>
+        <page name='練習-篩選訊息'/>
+        <page name='練習-While 迴圈'/>
+    </pages>
+</playground>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='macos' display-mode='rendered' executeOnSourceChanges='true'>
+    <pages>
+        <page name='資料處理'/>
+        <page name='製作表格'/>
+        <page name='計算節目'/>
+        <page name='資料錯誤'/>
+        <page name='修正錯誤'/>
+        <page name='第三方程式碼'/>
+        <page name='拼寫錯誤'/>
+        <page name='高階資訊'/>
+        <page name='最大值與最小值'/>
+        <page name='排名'/>
+        <page name='總結'/>
+    </pages>
+</playground>

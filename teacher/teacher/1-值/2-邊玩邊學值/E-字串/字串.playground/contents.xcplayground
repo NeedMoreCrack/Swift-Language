@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='osx' display-mode='rendered' executeOnSourceChanges='true'>
+    <pages>
+        <page name='簡介'/>
+        <page name='字元'/>
+        <page name='定義字串'/>
+        <page name='Unicode'/>
+        <page name='主控台'/>
+        <page name='組合字串'/>
+        <page name='填空'/>
+        <page name='字串插值'/>
+        <page name='檢視結果'/>
+        <page name='不只是字串'/>
+        <page name='完美跳脫'/>
+        <page name='跳脫序列'/>
+        <page name='總結'/>
+        <page name='練習-設定列表'/>
+        <page name='練習-餐廳'/>
+        <page name='練習 - Go! Fight! Win!'/>
+        <page name='練習-顯示值'/>
+        <page name='你可以列印什麼？'/>
+    </pages>
+</playground>

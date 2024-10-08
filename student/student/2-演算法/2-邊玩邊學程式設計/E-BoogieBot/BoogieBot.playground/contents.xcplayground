@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground auto-termination-delay='21' version='6.0' target-platform='osx' display-mode='rendered' executeOnSourceChanges='true'>
+    <pages>
+        <page name='簡介'/>
+        <page name='即時顯示區'/>
+        <page name='舞蹈學校'/>
+        <page name='API'/>
+        <page name='舞步組合'/>
+        <page name='為作品簽名'/>
+        <page name='分享熱舞'/>
+        <page name='演算法'/>
+        <page name='總結'/>
+        <page name='熱舞教室 1'/>
+        <page name='熱舞教室 2'/>
+        <page name='熱舞教室 3'/>
+        <page name='熱舞教室 4'/>
+    </pages>
+</playground>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='osx' display-mode='rendered' executeOnSourceChanges='true'>
+    <pages>
+        <page name='簡介'/>
+        <page name='寵物問題'/>
+        <page name='寵物問題回顧'/>
+        <page name='命名事物'/>
+        <page name='自動補完'/>
+        <page name='識別碼'/>
+        <page name='好的名稱'/>
+        <page name='程式設計師語言'/>
+        <page name='總結'/>
+        <page name='09-練習表演'/>
+        <page name='10-練習樂透'/>
+        <page name='11-練習 iPhone'/>
+        <page name='12-練習早上'/>
+        <page name='13-練習命名'/>
+    </pages>
+</playground>

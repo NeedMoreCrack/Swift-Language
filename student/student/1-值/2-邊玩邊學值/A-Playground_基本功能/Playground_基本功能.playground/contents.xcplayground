@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='osx' display-mode='rendered' executeOnSourceChanges='true'>
+    <pages>
+        <page name='簡介'/>
+        <page name='Playground 是什麼？'/>
+        <page name='計算'/>
+        <page name='註解'/>
+        <page name='遇到問題時'/>
+        <page name='錯誤'/>
+        <page name='總結'/>
+    </pages>
+</playground>

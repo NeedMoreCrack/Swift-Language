@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='osx' display-mode='rendered' executeOnSourceChanges='true'>
+    <pages>
+        <page name='簡介'/>
+        <page name='實例'/>
+        <page name='建立實例'/>
+        <page name='方法'/>
+        <page name='方法與類型安全'/>
+        <page name='屬性'/>
+        <page name='屬性與方法的比較'/>
+        <page name='API (複習)'/>
+        <page name='其功能為何？'/>
+        <page name='Quick Help'/>
+        <page name='閱讀詳細的手冊'/>
+        <page name='類別與結構'/>
+        <page name='為何使用方法與屬性？'/>
+        <page name='總結'/>
+        <page name='練習-BoogieBot 歸來'/>
+        <page name='練習：貨運電梯'/>
+        <page name='練習：身分'/>
+    </pages>
+</playground>

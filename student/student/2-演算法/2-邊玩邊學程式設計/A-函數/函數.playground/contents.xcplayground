@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='osx' display-mode='rendered' executeOnSourceChanges='true'>
+    <pages>
+        <page name='簡介'/>
+        <page name='呼叫函數'/>
+        <page name='重複程式碼'/>
+        <page name='單項工作'/>
+        <page name='分解任務'/>
+        <page name='函數內的函數'/>
+        <page name='無限迴圈'/>
+        <page name='隱藏複雜度'/>
+        <page name='僅變更一次'/>
+        <page name='總結'/>
+        <page name='函數迷因'/>
+        <page name='個人迷因'/>
+    </pages>
+</playground>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios' display-mode='rendered' executeOnSourceChanges='true'>
+    <pages>
+        <page name='簡介'/>
+        <page name='圓餅圖'/>
+        <page name='圓餅圖設定'/>
+        <page name='深入了解顏色'/>
+        <page name='長條圖'/>
+        <page name='長條圖設定'/>
+        <page name='散佈圖'/>
+        <page name='散佈圖設定'/>
+        <page name='總結'/>
+    </pages>
+</playground>

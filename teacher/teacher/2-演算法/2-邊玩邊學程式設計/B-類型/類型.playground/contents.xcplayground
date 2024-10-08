@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='osx' display-mode='rendered' executeOnSourceChanges='true'>
+    <pages>
+        <page name='簡介'/>
+        <page name='類型'/>
+        <page name='最喜歡的襯衫'/>
+        <page name='類型和變數'/>
+        <page name='類型安全'/>
+        <page name='類型和字面值'/>
+        <page name='透過賦值推斷類型'/>
+        <page name='類型註解'/>
+        <page name='類型從何而來？'/>
+        <page name='標準資料庫以外'/>
+        <page name='匯入架構'/>
+        <page name='總結'/>
+        <page name='練習：圓圈'/>
+    </pages>
+</playground>

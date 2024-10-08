@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='macos' display-mode='rendered'>
+    <pages>
+        <page name='簡介'/>
+        <page name='撲滿'/>
+        <page name='整數限制'/>
+        <page name='說明文件與測試'/>
+        <page name='進行變更'/>
+        <page name='浮點數限制'/>
+        <page name='總結'/>
+    </pages>
+</playground>

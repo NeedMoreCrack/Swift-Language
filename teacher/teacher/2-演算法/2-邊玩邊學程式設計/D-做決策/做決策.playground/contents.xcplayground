@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='osx' display-mode='rendered' executeOnSourceChanges='true'>
+    <pages>
+        <page name='簡介'/>
+        <page name='True 和 False'/>
+        <page name='相等性'/>
+        <page name='更多比較'/>
+        <page name='條件式'/>
+        <page name='Else'/>
+        <page name='Else If'/>
+        <page name='複合條件式'/>
+        <page name='函數與決策'/>
+        <page name='餘數運算子'/>
+        <page name='總結'/>
+        <page name='練習-If 語句練習'/>
+        <page name='練習-Else 練習'/>
+        <page name='相似，但不同'/>
+        <page name='練習-閏年'/>
+    </pages>
+</playground>

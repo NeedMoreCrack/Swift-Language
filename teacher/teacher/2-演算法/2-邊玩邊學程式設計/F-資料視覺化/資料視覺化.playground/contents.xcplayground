@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios' display-mode='rendered' executeOnSourceChanges='true'>
+    <pages>
+        <page name='簡介'/>
+        <page name='圓餅圖'/>
+        <page name='圖表圖例'/>
+        <page name='你自己的圓餅圖'/>
+        <page name='長條圖'/>
+        <page name='自訂長條圖'/>
+        <page name='你自己的長條圖'/>
+        <page name='散佈圖'/>
+        <page name='自訂散佈圖'/>
+        <page name='你自己的散佈圖'/>
+        <page name='總結'/>
+    </pages>
+</playground>

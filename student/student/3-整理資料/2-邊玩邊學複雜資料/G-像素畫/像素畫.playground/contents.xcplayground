@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='macos' display-mode='rendered'>
+    <pages>
+        <page name='簡介'/>
+        <page name='像素'/>
+        <page name='控制顯示器'/>
+        <page name='線條'/>
+        <page name='區塊'/>
+        <page name='組合'/>
+        <page name='子畫面'/>
+        <page name='動畫'/>
+        <page name='自訂子畫面類型'/>
+        <page name='總結'/>
+        <page name='練習-表情符號'/>
+        <page name='練習-像素迴圈'/>
+        <page name='練習-任意圖形動畫'/>
+    </pages>
+</playground>
